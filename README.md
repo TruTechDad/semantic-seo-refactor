@@ -8,6 +8,6 @@ Revamping a website for better search engine visibility by using semantic HTML. 
 ![Screenshot of SEO refactor](./screenshots/Horiseon-Social-Solution-Services-Inc.png)
 
 ## Link
-[Link to deploy site]()
+[Link to deploy site](https://TruTechDad.github.io/semantic-seo-refactor)
 
 
